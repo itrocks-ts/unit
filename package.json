@@ -25,8 +25,13 @@
 	"keywords": [
 		"backend",
 		"decorator",
+		"format",
+		"formatting",
 		"it.rocks",
+		"metadata",
+		"number",
 		"property",
+		"typing",
 		"unit",
 		"view"
 	],
@@ -40,5 +45,5 @@
 		"build": "tsc"
 	},
 	"types": "./cjs/unit.d.ts",
-	"version": "0.0.2"
+	"version": "0.0.3"
 }
